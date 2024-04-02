@@ -1,2 +1,2 @@
-# Machine-Learning-Analysis-
+# Projects
 Breast Cancer Analysis using Machine Learning
